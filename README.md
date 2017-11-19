@@ -1,2 +1,3 @@
 # hello-world
-Jjust another repository
+just another repository
+Hello,everyone
